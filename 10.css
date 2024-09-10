@@ -1,0 +1,118 @@
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.child:hover{
+    
+    background-color: green;
+    border: 2px solid ;
+    border-radius: 5px;
+    
+}
+.fa fa-search{
+    position: absolute;
+    left:30px;
+}
+    
+
+.fa{
+    color:black
+}
+.ul1{
+    display: flex;
+    gap:20px;
+    place-items: center;
+    text-align: 40px;
+    
+    
+    
+    
+
+}
+
+
+    
+    
+
+.an:hover{
+    background-color: gray;
+    border:2px;
+    border-radius: 5px;
+}
+
+
+
+
+.div1{
+    display: flex;
+    align-content: start;  
+    align-items: center;
+    background-color: white;
+    place-items: center;
+    padding: 10px;
+    height: 20px;
+    
+    
+    
+}
+
+.list a{
+    color: white;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+
+.list2{
+    display: flex;
+    color: white;
+    gap: 25px;
+    background-color: black;
+    height:30px;
+    place-items: center;
+    
+    
+}
+.l1{
+    margin-left: 0px;
+}
+
+.list:hover{
+    background-color: black;
+    color: white;
+    
+    
+}
+.five{
+    margin-left:130px;
+}
+.nine{
+    background-color: green;
+    font-size: 20px;
+    border-radius: 10px;
+    color: white;
+}
+.nine:hover{
+    background-color: green;
+    border-radius: 10px;
+}
+.ten{
+    width: 100px;
+    font-size: 20px;
+    border:2px;
+    border-radius: 10px;
+}
+.ten:hover{
+    background-color: green;
+    border-radius: 10px;
+}
